@@ -21,4 +21,4 @@ Through the dashboard you can get the state of techer/student ratio in any schoo
 
 This application has lots more features and there are lots more feature i want to add to it but at the moment i am busy with other development and would visit it soon.
 
-Please note:  I have been playing around this code since last month and hope to put perfection on it like creating a connect file rather than referencing it on every page and using more functions to minmize coding.
+Please note:  I have been playing around this code since last month and hope to put perfection on it like connect file usage, commenting and using more functions to minmize coding.
