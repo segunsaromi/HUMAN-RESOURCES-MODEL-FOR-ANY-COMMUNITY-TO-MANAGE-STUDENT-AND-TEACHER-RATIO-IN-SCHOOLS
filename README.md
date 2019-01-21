@@ -9,7 +9,7 @@ I used root and no password. So for the purpose of this application testing you 
 
 Secondly create a folder and name it whatever you want, only remeber that the name will constitute the url for accessing the application from your browser. Upload the two folders into the folder you created and thats all.
 
-I have not yet created the module to add admin so i added admin login detail manually from the database and you can find it in users table. The password i used is "asdfghjkl". In this application, the admin is a memeber f the cooprative society. You can make any memeber admin by copying their application details and insert it into coop-admin table.
+I have not yet created the module to add admin so i added admin login detail manually from the database and you can find it in users table. The password i used is "asdfghjkl".
 
 This application allows you to create schools, teachers and standard used in measuring the teacher/student ratio.
 
